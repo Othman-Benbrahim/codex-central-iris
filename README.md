@@ -103,4 +103,4 @@ Le dépôt pourra évoluer de manière incrémentale :
 - ensuite comme base d'alignement des skills existants,
 - puis comme fondation pour un éventuel agent de simplification.
 
-Cette progression est cohérente avec les approches recommandées pour les Agent Skills : garder un point d'entrée simple, déplacer les détails dans les bons fichiers, et charger l'information seulement quand elle est utile.[cite:36][cite:46]
+Cette progression est cohérente avec les approches recommandées pour les Agent Skills : garder un point d'entrée simple, déplacer les détails dans les bons fichiers, et charger l'information seulement quand elle est utile.
