@@ -6,7 +6,7 @@ description: Référentiel transversal de l'écosystème IRIS∞. Utiliser quand
 
 # Codex Central IRIS∞
 
-Le Codex Central IRIS∞ est un **socle documentaire partagé**. Il ne remplace aucun skill métier et n'exécute aucun protocole spécialisé à la place d'un autre skill. Son rôle est de fournir un cadre commun, léger et stable, en cohérence avec les bonnes pratiques des Agent Skills : `SKILL.md` concis, documentation séparée, et chargement progressif des ressources selon le besoin.[cite:36][cite:46]
+Le Codex Central IRIS∞ est un **socle documentaire partagé**. Il ne remplace aucun skill métier et n'exécute aucun protocole spécialisé à la place d'un autre skill. Son rôle est de fournir un cadre commun, léger et stable, en cohérence avec les bonnes pratiques des Agent Skills : `SKILL.md` concis, documentation séparée, et chargement progressif des ressources selon le besoin.
 
 ## Quand l'utiliser
 
